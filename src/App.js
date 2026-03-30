@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Kyle Miller</h1>
-      <p>Cloud for Developers Project4</p>
+      <p>Updated through the code pipeline</p>
     </div>
   );
 }
